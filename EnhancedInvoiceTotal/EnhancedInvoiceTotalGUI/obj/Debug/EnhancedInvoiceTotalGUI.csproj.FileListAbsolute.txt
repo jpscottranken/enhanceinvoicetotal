@@ -1,0 +1,11 @@
+C:\Users\jpscott\Desktop\enhanceinvoicetotal\EnhancedInvoiceTotal\EnhancedInvoiceTotalGUI\bin\Debug\EnhancedInvoiceTotalGUI.exe.config
+C:\Users\jpscott\Desktop\enhanceinvoicetotal\EnhancedInvoiceTotal\EnhancedInvoiceTotalGUI\bin\Debug\EnhancedInvoiceTotalGUI.exe
+C:\Users\jpscott\Desktop\enhanceinvoicetotal\EnhancedInvoiceTotal\EnhancedInvoiceTotalGUI\bin\Debug\EnhancedInvoiceTotalGUI.pdb
+C:\Users\jpscott\Desktop\enhanceinvoicetotal\EnhancedInvoiceTotal\EnhancedInvoiceTotalGUI\obj\Debug\EnhancedInvoiceTotalGUI.csproj.AssemblyReference.cache
+C:\Users\jpscott\Desktop\enhanceinvoicetotal\EnhancedInvoiceTotal\EnhancedInvoiceTotalGUI\obj\Debug\EnhancedInvoiceTotalGUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\jpscott\Desktop\enhanceinvoicetotal\EnhancedInvoiceTotal\EnhancedInvoiceTotalGUI\obj\Debug\EnhancedInvoiceTotalGUI.frmEnhancedInvoiceTotal.resources
+C:\Users\jpscott\Desktop\enhanceinvoicetotal\EnhancedInvoiceTotal\EnhancedInvoiceTotalGUI\obj\Debug\EnhancedInvoiceTotalGUI.Properties.Resources.resources
+C:\Users\jpscott\Desktop\enhanceinvoicetotal\EnhancedInvoiceTotal\EnhancedInvoiceTotalGUI\obj\Debug\EnhancedInvoiceTotalGUI.csproj.GenerateResource.cache
+C:\Users\jpscott\Desktop\enhanceinvoicetotal\EnhancedInvoiceTotal\EnhancedInvoiceTotalGUI\obj\Debug\EnhancedInvoiceTotalGUI.csproj.CoreCompileInputs.cache
+C:\Users\jpscott\Desktop\enhanceinvoicetotal\EnhancedInvoiceTotal\EnhancedInvoiceTotalGUI\obj\Debug\EnhancedInvoiceTotalGUI.exe
+C:\Users\jpscott\Desktop\enhanceinvoicetotal\EnhancedInvoiceTotal\EnhancedInvoiceTotalGUI\obj\Debug\EnhancedInvoiceTotalGUI.pdb
